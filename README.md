@@ -1,3 +1,6 @@
+## NOTE:
+
+All CSS comes from John Smilga coding addict on youtube. I wanted to focus on functionality only.
 # Birthdaylist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
